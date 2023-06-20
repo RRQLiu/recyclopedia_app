@@ -1,0 +1,1 @@
+export 'package:recyclopedia/models/resource_article.dart';

@@ -1,0 +1,16 @@
+
+[
+{
+    "id":1,
+    "attributes":
+    {"description":"Learn more about BUs green initiatives and environmental impact",
+    "link":"https://www.bu.edu/sustainability/about/",
+    "createdAt":"2023-05-07T01:06:48.454Z",
+    "updatedAt":"2023-05-07T02:22:20.526Z",
+    "publishedAt":"2023-05-07T01:06:49.695Z",
+    "title":"BU Sustainability",
+    "imagePath":"https://raw.githubusercontent.com/BU-Spark/se-recyclopedia/resources/src/recyclopedia/assets/images/testimage.jpg"
+    }
+}
+]
+
